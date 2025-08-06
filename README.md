@@ -1,6 +1,7 @@
 # wordpress-portfolio
 
-
+![1](screenword/1.png)
+![2](screenword/2.png)
 
 # Portfolio Website with Projects – WordPress Lab
 
